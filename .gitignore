@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Editor/IDE folders
+.vscode/
+.idea/
+*.swp
+
+# OS / FS junk
+.DS_Store
+Thumbs.db
+
+# Logs or temp output files
+*.log
+*.tmp
+*.bak
+
+# Executable or dist artifacts
+*.out
+*.exe
+*.deb
+*.tar.gz
+dist/
+build/
